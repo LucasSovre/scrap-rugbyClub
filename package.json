@@ -1,0 +1,25 @@
+{
+  "name": "scrap-rugbyclub",
+  "version": "1.0.0",
+  "description": "French rugby club email scrapper",
+  "main": "main.js",
+  "dependencies": {
+    "object-to-csv": "^1.0.5",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSovre/scrap-rugbyClub.git"
+  },
+  "author": "Lucas SOVRE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasSovre/scrap-rugbyClub/issues"
+  },
+  "homepage": "https://github.com/LucasSovre/scrap-rugbyClub#readme"
+}
